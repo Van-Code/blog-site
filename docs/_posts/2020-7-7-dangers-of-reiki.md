@@ -1,0 +1,21 @@
+---
+date: 2020-7-7
+tag:
+  - blog
+author: Tiara
+location: Los Angeles
+---
+
+# The Dangers of Reiki
+
+Despite countless testimonies on the benefits of Reiki healing, the topic remains controversial. Every year, thousands of people flock to trusted healers for services such as pre-op to post operative relaxation, pain management and relief from anxiety and depression. Yet the claims of Reiki “shams” and placebo effect are a search engine away. Further examination into the cause of these claims sheds light on these extreme differences in perspective.
+
+The Healing Touch Professional Association estimates over 30,000 nurses in U.S. hospitals support patients with holistic energy practices every year. Medical facilities offer reiki training to staff to assist the healing process of those in their care. 4,000,000 people worldwide have gone through at least one level of Reiki training as estimated by The International Center for Reiki Training. With abundant amounts of accessible lower cost training becoming more available, the credibility of the training and tangible understanding or lack there of seem to be the root of the divide. Participants are able in some cases to claim Mastery after a weekend without exemplifying the balance of holistic health in their own lifestyles. The degradation of a healing practice for profit is the “sham”,not the healing modality itself. The dangers of reiki are evidently linked to lack of understanding and disrespect , whether consciously or unconsciously, of a practice that should be held sacred. Continued education and professional development in any field are necessary for true Mastery.
+
+Recognizing the origins of the healing practice lends itself to a more well rounded understanding of what is required for practitioners to use it properly. The form most widely practiced is the Usui System of Natural Healing. In 1922 Mikao Usui, who maintained a holistic lifestyle, founded the Japanese version of the energy practice he connected to on a pilgrimage in India. Usui students then popularized it in America which has lead to it becoming “McReiki’d” (a drive-thru version) over time. The Origin of the ancient teachings can be found in the Vedas which trace back to as far as 1500c-500 BCE. The Vedic lifestyle was later labelled as Hinduism by the British when India was colonized by Britain. The parts of the Vedas more commercially accepted are widely known as the yogic lifestyle. A hatha class on Sunday , drinking all week and avoiding healing of past traumas does not qualify. Holistic healing practitioners, especially those teaching others to offer their own healing services, must assume the responsibility to not only maintain a yogic lifestyle themselves but to also pass this inner integrity on to their future students. Regardless of whether practitioners have been working unconsciously until this point, the power to self correct, to cleanse and grow is in the gift of every waking morning. Theres no better time than now.
+
+Happy Healing Loved Ones,
+
+Quantum reform
+
+> "To have faith is to trust yourself to the water. When you swim you don’t grab hold of the water, because if you do you will sink and drown. Instead you relax, and float.” - Alan Watts

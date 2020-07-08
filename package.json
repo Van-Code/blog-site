@@ -1,0 +1,34 @@
+{
+  "name": "quantum-reform",
+  "version": "0.0.1",
+  "description": "holistic",
+  "main": "index.js",
+  "authors": {
+    "name": "van",
+    "email": "test@test.com"
+  },
+  "repository": "/quantum-reform",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/theme-blog": "^2.1.0",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^9.0.2",
+    "vue-feather-icons": "^5.0.0",
+    "vuepress": "^1.3.1"
+  },
+  "files": [
+    "index.js",
+    "styles",
+    "layouts",
+    "global-components",
+    "fonts",
+    "components"
+  ],
+  "dependencies": {
+    "@vuepress/plugin-blog": "^1.9.2"
+  }
+}
