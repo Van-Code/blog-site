@@ -1,7 +1,6 @@
 module.exports = {
   title: 'Quantum Reform',
   description: 'This is a blog example built by VuePress',
-  base: '/docs/.vuepress/dist/',
   //theme: '@vuepress/theme-default', // OR shortcut: @vuepress/blog
   theme: 'theme',
   themeConfig: {
