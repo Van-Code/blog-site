@@ -8,8 +8,7 @@
     </div>
     <div class="col">
       <div class="col-title">Hours</div>
-      <p
-      Monday — Friday <br />1pm — 8pm </p>
+      <p>Monday — Friday <br />1pm — 8pm</p>
       <p>Saturday — Sunday <br />closed</p>
     </div>
     <div class="col">
@@ -35,7 +34,7 @@
   font-size: 1.6em;
   font-family: 'Cormorant Garamond', serif;
 }
-p.small{
-  font-size:calc(-.12vw +  1rem);
+p.small {
+  font-size: calc(-0.12vw + 1rem);
 }
 </style>
