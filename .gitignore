@@ -4,7 +4,8 @@ node_modules
 npm-debug.log
 coverage/
 run
-dist
+deploy.sh
+#dist
 .DS_Store
 .nyc_output
 .basement
