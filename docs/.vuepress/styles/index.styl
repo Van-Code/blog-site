@@ -35,7 +35,7 @@ p
   font-family: 'Source Sans Pro', sans-serif
   font-size: 1.3em
 
-h2.large--text {
+h2.large--text 
   font-family: 'Cormorant Garamond', serif
   font-size: calc(2.16vw + 1rem)
   line-height: 1.2992
@@ -43,11 +43,17 @@ h2.large--text {
   font-weight: 500
   letter-spacing: 0em
   border-bottom:none
-}
-.content-wrapper
-  width: 50%
 
 #header
   box-shadow: none
   .nav-item a
     font-family: 'Source Sans Pro', sans-serif
+
+@media (max-width: $MQMobile) 
+  .footer
+    flex-wrap: wrap
+    margin-bottom: 2em
+    .col 
+      width: 100%
+    
+  

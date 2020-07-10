@@ -50,6 +50,10 @@ export default {
   max-width $contentWidth
   margin 0 auto
 
+  @media (min-width: $MQMobile)
+    &
+      width: 50%
+
   @media (max-width: $MQMobile)
     &
       padding 100px 15px 20px 15px
