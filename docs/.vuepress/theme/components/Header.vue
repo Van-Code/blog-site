@@ -23,7 +23,7 @@
             </li>
           </ul>
           <div class="header-button-right">
-            <a href="$themeConfig.navBtn.link" class="btn">{{
+            <a :href="$themeConfig.navBtn.link" class="btn">{{
               $themeConfig.navBtn.text
             }}</a>
           </div>
