@@ -61,7 +61,7 @@ export default {
 .nav-link
   color $darkTextColor
 
-.nav-link
+.nav .nav-link
   &:hover, &.router-link-active
     color $darkTextColor
     border-bottom 1px solid $darkTextColor

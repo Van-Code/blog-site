@@ -45,8 +45,9 @@ export default {
   word-wrap break-word
 
 .content-wrapper
+  font-size calc(0vw + 1rem)
   padding 160px 15px 80px 15px
-  min-height calc(100vh - 80px - 60px - 160px)
+  min-height calc(100vh - 80px - 30px - 110px)
   max-width $contentWidth
   margin 0 auto
 
