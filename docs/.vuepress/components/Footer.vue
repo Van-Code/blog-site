@@ -34,6 +34,9 @@
   font-size: 1.6em;
   font-family: 'Cormorant Garamond', serif;
 }
+p {
+  font-size: 1em;
+}
 p.small {
   font-size: calc(-0.12vw + 1rem);
 }

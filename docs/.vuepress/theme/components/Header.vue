@@ -22,7 +22,12 @@
               <NavLink :link="item.link">{{ item.text }}</NavLink>
             </li>
           </ul>
-          <!-- <SearchBox /> -->
+          <div class="header-button-right">
+            <a href="$themeConfig.navBtn.link" class="btn">{{
+              $themeConfig.navBtn.text
+            }}</a>
+          </div>
+          <!-- <SearchBox> /> -->
           <Feed />
         </div>
       </div>
@@ -50,7 +55,7 @@ export default {
   height $headerHeight
   box-sizing border-box
   background-color $headerBgColor
-  padding 20px 32px 20px
+  padding 10px 32px 20px
   margin auto
   box-shadow 0 5px 20px rgba(0, 0, 0, 0.03), 0 6px 6px rgba(0, 0, 0, 0.05)
   transition all 1s cubic-bezier(0.25, 0.8, 0.25, 1)
@@ -60,10 +65,19 @@ export default {
     margin 0
     padding 0
 
+  ul
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex: 0 0 50%;
+    justify-content: center;
+    align-content: center;
+    margin-left: auto;
+
   &:hover
     box-shadow 0 5px 20px rgba(0, 0, 0, 0.08), 0 6px 6px rgba(0, 0, 0, 0.1)
   .logo
-    height $navbarHeight - 1rem
+    height $navbarHeight - .8rem
     min-width $navbarHeight - 1rem
     // margin-right 0.8rem
     margin-bottom 0.2rem
@@ -86,7 +100,6 @@ export default {
     a
       color $darkTextColor
       font-weight bold
-      font-family PT Serif, Serif
       text-decoration none
 
   .header-links
@@ -105,14 +118,18 @@ export default {
         display inline-block
 
         a
-          font-family PT Serif, Serif
           font-size 20px
+          font-weight 300
           // color lighten(#3eaf7c, 30%)
           text-decoration none
           transition color 0.3s
 
+    .header-button-right
+      line-height: initial;
+      flex: 0 1 25%;
+      max-width: 25%;
+
     .search-box
-      font-family PT Serif, Serif
       margin-left 20px
 
       input

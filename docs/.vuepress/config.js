@@ -15,6 +15,24 @@ module.exports = {
     /**
      * Ref: https://vuepress-theme-blog.ulivz.com/#nav
      */
+    head: [
+      [
+        'link',
+        {
+          rel: 'stylesheet',
+          href:
+            'https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400&display=swap',
+        },
+      ],
+      [
+        'link',
+        {
+          rel: 'stylesheet',
+          href:
+            'https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&display=swap',
+        },
+      ],
+    ],
     nav: [
       {
         text: 'Home',
@@ -37,5 +55,6 @@ module.exports = {
         link: '/donate/',
       },
     ],
+    navBtn: { text: 'Contact Us', link: '/contact/' },
   },
 };

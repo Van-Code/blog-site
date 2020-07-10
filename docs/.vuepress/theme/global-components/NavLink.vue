@@ -25,7 +25,7 @@
 </template>
 
 <script>
-import { isExternal, isMailto, isTel, ensureExt } from '../components/util'
+import { isExternal, isMailto, isTel, ensureExt } from '../components/util';
 
 export default {
   props: {
@@ -36,16 +36,16 @@ export default {
 
   computed: {
     normalizedlink() {
-      return ensureExt(this.link)
+      return ensureExt(this.link);
     },
 
     exact() {
       if (this.$site.locales) {
         return Object.keys(this.$site.locales).some(
-          rootLink => rootLink === this.normalizedlink
-        )
+          (rootLink) => rootLink === this.normalizedlink
+        );
       }
-      return this.normalizedlink === '/'
+      return this.normalizedlink === '/';
     },
   },
 
@@ -54,7 +54,7 @@ export default {
     isMailto,
     isTel,
   },
-}
+};
 </script>
 
 <style lang="stylus">
@@ -63,5 +63,7 @@ export default {
 
 .nav-link
   &:hover, &.router-link-active
-    color $accentColor
+    color $darkTextColor
+    border-bottom 1px solid $darkTextColor
+    padding: 0 0 .2em;
 </style>
